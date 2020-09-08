@@ -1,0 +1,27 @@
+{
+  "name": "reveal.js",
+  "version": "3.6.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css"
+  ],
+  "homepage": "http://revealjs.com",
+  "license": "MIT",
+  "description": "The HTML Presentation Framework",
+  "authors": [
+    "Francisco Funes <f.funes@bue.edu.ar>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciscofunes/revealJsHGO"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
