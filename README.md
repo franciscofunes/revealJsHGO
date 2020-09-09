@@ -1,4 +1,4 @@
-# Reveal.js Themes
+# Reveal.js University presentation
 
 This repository is a presentation for a course call "ORGANIZATIONAL MANAGEMENT TOOLS", I used a theme of Reveal.js. They're free for you to use and MIT-licensed.
 
@@ -6,5 +6,5 @@ This repository is a presentation for a course call "ORGANIZATIONAL MANAGEMENT T
 
 To visit a deployed version of this repository at:
 
-https://revealjs-themes.dzello.com/
+https://presentacionhgo.web.app/
 
